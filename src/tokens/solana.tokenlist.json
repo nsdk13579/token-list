@@ -18498,13 +18498,14 @@
         "discord": "https://discord.gg/x47U9qkR5K"
       }
     },
+    
     {
       "chainId": 101,
       "address": "GmwiyYf1Biz9XjgofNBMdKSTgz134pmHWPhBanAFfDfa",
       "symbol": "ENT",
       "name": "Entropy",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GmwiyYf1Biz9XjgofNBMdKSTgz134pmHWPhBanAFfDfa/logo.png",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GmwiyYf1Biz9XjgofNBMdKSTgz134pmHWPhBanAFfDfa/logo.svg",
       "tags": [],
       "extensions": {
         "website": "https://www.entropy.gold",
